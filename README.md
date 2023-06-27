@@ -1,5 +1,4 @@
 # todo_app
-providing u all the steps:
 
 1.first install nodejs
 
@@ -9,4 +8,4 @@ providing u all the steps:
 
 4.Then use MongoDB locally or MongoDB Atlas to get the connection string and create the database
 
-4.Run the project using node app.js
+4.Run the project using the command node app.js
