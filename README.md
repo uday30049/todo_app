@@ -9,4 +9,13 @@
 4.Then use MongoDB locally or MongoDB Atlas to get the connection string and create the database
 
 4.Run the project using the command node app.js
-![image](https://github.com/uday30049/todo_app/assets/112474023/0b12d45d-acd6-4b35-b07e-ab78f7a64f15)
+
+Screenshots:
+
+After adding new tasks:
+
+![image](https://github.com/uday30049/todo_app/assets/112474023/92a49c2d-a5b3-4be0-a2f7-7ef395cddb06)
+
+After deleting a task:
+
+![image](https://github.com/uday30049/todo_app/assets/112474023/539c655a-c27a-43ce-8b55-0869d510cea6)
